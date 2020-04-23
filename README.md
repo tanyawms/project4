@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![tanyawms](https://circleci.com/gh/tanyawms/project-4.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
