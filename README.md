@@ -1,4 +1,4 @@
-[![tanyawms](https://circleci.com/gh/tanyawms/project-4.svg?style=svg)](<LINK>)
+[![CircleCI](https://circleci.com/gh/tanyawms/project4.svg?style=svg)](https://circleci.com/gh/tanyawms/project4)
 
 ## Project Overview
 
