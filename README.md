@@ -35,7 +35,7 @@ The tasks in this project are:
 http://localhost:5000
 
 ## Predict Housing Prices
-./make_prediction.sh
+./make_prediction.sh command is run after the app is running in Docker or Kubernetes environments.
 
 ## DockerHub
 After running ./run_docker.sh and obtaining results from ./make_prediction.sh, upload image to DockerHub with ./upload_docker.sh command.
